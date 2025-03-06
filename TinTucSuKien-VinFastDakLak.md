@@ -1,4 +1,4 @@
-# Tóm Tắt Tin Tức VinFast Tây Nguyên
+# Những Tin Tức VinFast DakLak
 
 ## 1. [Thấy gì sau các sự cố tụ lùi của VF 8 và VF 9? VinFast nhìn nhận ra sao?](https://vinfasttaynguyen.com/thay-gi-sau-cac-su-co-tu-lui-cua-vf8-va-vf9-vinfast-nhin-nhan-ra-sao.html)
 - Sự cố "tụ lùi" khiến xe VF 8 và VF 9 di chuyển chậm dù đã nhấn ga.
